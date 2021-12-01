@@ -6,6 +6,7 @@
             "command": "C:\\Users\\EgeAk\\scoop\\apps\\gcc\\current\\bin\\g++.exe",
             "args": [
                 "-fdiagnostics-color=always",
+                "-std=c++20",
                 "-g",
                 "${file}",
                 "-o",
